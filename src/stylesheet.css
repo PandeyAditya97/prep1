@@ -1,0 +1,56 @@
+*
+{
+    background-color: blanchedalmond;
+}
+.primary
+{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.func
+{
+    background-color: lightblue;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 40px;
+    display: inline-block;
+    padding: 25px;
+    margin-top: 100px;
+    margin-left: 275px;
+}
+.cls
+{
+    background-color: blue;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 40px;
+    display: inline-block;
+    padding: 25px;
+    margin-top: 100px;
+    margin-left: 205px;
+}
+.whole
+{
+    border: 2px solid black;
+    border-radius: 40px;
+    display: inline-block;
+    padding: 25px;
+    margin-top: 100px;
+    margin-left: 105px;
+    width: 550px;
+    text-align: center;
+}
+.line
+{
+    font-size: 40px;
+    font-weight: bold;
+    
+}
+.line1
+{
+    font-size: 20px;
+    color: blueviolet;
+    padding: 25px;
+}
